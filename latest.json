@@ -1,7 +1,7 @@
 {
-  "version": "1.0.23",
-  "installer": "https://github.com/mustafaeminof/bee-game-center-releases/releases/download/v1.0.23/BeeGamecenter-Setup-1.0.23.exe",
-  "zip": "https://github.com/mustafaeminof/bee-game-center-releases/releases/download/v1.0.23/BeeGamecenter-Windows-1.0.23.zip",
-  "releaseUrl": "https://github.com/mustafaeminof/bee-game-center-releases/releases/tag/v1.0.23",
-  "publishedAt": "2026-07-28T20:59:10Z"
+  "version": "1.0.24",
+  "installer": "https://github.com/mustafaeminof/bee-game-center-releases/releases/download/v1.0.24/BeeGamecenter-Setup-1.0.24.exe",
+  "zip": "https://github.com/mustafaeminof/bee-game-center-releases/releases/download/v1.0.24/BeeGamecenter-Windows-1.0.24.zip",
+  "releaseUrl": "https://github.com/mustafaeminof/bee-game-center-releases/releases/tag/v1.0.24",
+  "publishedAt": "2026-07-28T21:07:21Z"
 }
